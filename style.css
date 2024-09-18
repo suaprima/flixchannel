@@ -1,0 +1,9 @@
+:root{
+    --cor-principal:purple;
+    --cor-secundaria:white;
+    --cor-botao:aqua;
+    --cor-fundo:black;
+}
+body{
+    background-color: var(--cor-fundo);
+}
